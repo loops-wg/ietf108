@@ -5,6 +5,7 @@
 Co-chairs: TBD
 
 | Timeslot | Topic                                                              | Responsible     | Time used | Time Remaining |
+|----------|--------------------------------------------------------------------|-----------------|-----------|----------------|
 |       10 | Introduction, Tool fiddling, Scribe Kidnapping, and Agenda Bashing | Chairs          |        10 |             90 |
 |       12 | "What is LOOPS?”                                                   | Carsten Bormann |        22 |             78 |
 |       10 | Status after IETF 105 BOF                                          | Carsten Bormann |        32 |             68 |
